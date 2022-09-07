@@ -10,6 +10,9 @@ Ao inserir um valor em Dólar, basta clicar em converter
 
 E o resultado é mostrado na tela!!!
 
+OBS: O valor da conversão em R$ é baseada em * 5 
+
+
 <img width="309" alt="image" src="https://user-images.githubusercontent.com/88103166/188762225-e3ccc57c-691c-4cc2-9aaf-f9e8703108d0.png">
 
 
